@@ -61,12 +61,18 @@ body {
     
 }
 
+.gitProfile {
+    color: black;
+}
 
+#repo {
+    color: black;
+    font-size: 15px;
+}
 
-
-
-
-
-
-
+.card-text {
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 15px;
+}
 
